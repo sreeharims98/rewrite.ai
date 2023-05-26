@@ -1,0 +1,15 @@
+{
+  "name": "rewrite.ai",
+  "description": "rewrite.ai is a OpenAI text rewriter chrome extension",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "rewrite_ai.png"
+  },
+  "icons": {
+    "16": "rewrite_ai.png",
+    "48": "rewrite_ai.png",
+    "128": "rewrite_ai.png"
+  }
+}
